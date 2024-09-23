@@ -1,6 +1,6 @@
 # InstallerBackhaul
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/PixelShellGIT/InstallerBackhaul/main/InstallerBackhaul.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/er212121/InstallerBackhaul/main/InstallerBackhaul.sh)
 ```
 Installer backhaul Tunnel
 <br>
